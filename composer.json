@@ -1,7 +1,7 @@
 {
-    "name": "friendsofsymfony/user-bundle",
+    "name": "archie18/user-bundle",
     "type": "symfony-bundle",
-    "description": "Symfony FOSUserBundle",
+    "description": "Fork of Symfony FOSUserBundle",
     "keywords": ["User management"],
     "homepage": "http://friendsofsymfony.github.com",
     "license": "MIT",
@@ -17,6 +17,10 @@
         {
             "name": "FriendsOfSymfony Community",
             "homepage": "https://github.com/friendsofsymfony/FOSUserBundle/contributors"
+        },
+        {
+            "name": "Andreas Schueller",
+            "email": "apschueller@gmail.com"
         }
     ],
     "require": {
